@@ -21,10 +21,9 @@
 <!-- repo = 'klamping/wdio-starter-kit' -->
 <!-- commit = '11619d622fc6719dc88921fee34aef82eb0b8d1d' -->
 <!-- time = '2018-09-13' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-09-13 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-09-13 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/klamping/wdio-starter-kit.svg
 [commit]: https://github.com/klamping/wdio-starter-kit/tree/11619d622fc6719dc88921fee34aef82eb0b8d1d
@@ -37,7 +36,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
